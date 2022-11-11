@@ -1,0 +1,3 @@
+- Give two elemts unique class name
+- Add rules for styles that both element shares
+- Also give both their own unique styles
